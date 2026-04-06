@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "# Revil-Cipher" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sixtyzeroone/Revil-Cipher.git
+git push -u origin main

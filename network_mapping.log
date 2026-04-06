@@ -1,0 +1,39 @@
+[1775496237] [INFO] === PENGUMPULAN DATA DIMULAI ===
+[1775496237] [USER] === USER ACCOUNTS ===
+[1775496237] [USER] Current: root (/root)
+[1775496237] [USER] User: sys
+[1775496237] [USER] User: sync
+[1775496237] [USER] User: games
+[1775496237] [USER] User: man
+[1775496237] [USER] User: lp
+[1775496237] [USER] User: mail
+[1775496237] [USER] User: news
+[1775496237] [USER] User: uucp
+[1775496237] [USER] User: proxy
+[1775496237] [USER] User: www-data
+[1775496237] [USER] User: backup
+[1775496237] [USER] User: list
+[1775496237] [USER] User: irc
+[1775496237] [USER] User: nobody
+[1775496237] [USER] User: systemd-network
+[1775496237] [USER] User: messagebus
+[1775496237] [USER] User: polkitd
+[1775496237] [USER] User: lynx
+[1775496237] [USER] User: Debian-exim
+[1775496237] [USER] User: bind
+[1775496237] [USER] User: debian-tor
+[1775496237] [SYSTEM] === SYSTEM INFO ===
+[1775496237] [SYSTEM] Hostname: localhost
+[1775496237] [SYSTEM] Linux 4.19.157-perf+ (aarch64)
+[1775496237] [NETWORK] === INTERFACES ===
+[1775496237] [SHARE] === NFS / CIFS SHARES ===
+[1775496237] [SHARE] adb /dev/usb-ffs/adb functionfs rw,relatime 0 0
+[1775496237] [SHARE] diag /dev/ffs-diag functionfs rw,relatime 0 0
+[1775496237] [SHARE] diag_mdm /dev/ffs-diag-1 functionfs rw,relatime 0 0
+[1775496237] [SHARE] diag_mdm2 /dev/ffs-diag-2 functionfs rw,relatime 0 0
+[1775496237] [PROCESS] === INTERESTING PROCESSES ===
+[1775496237] [INFO] === PENGUMPULAN DATA SELESAI ===
+[1775496237] [C2] Memulai pengiriman ke: http://192.168.1.2:5000
+[1775496237] [ZIP] ZIP selesai: collected_1775496237.zip
+[1775496237] [ZIP] File ditambahkan: 2, diskip: 0
+[1775496239] [C2] Gagal kirim: tidak ada respon
